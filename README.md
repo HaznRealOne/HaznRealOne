@@ -2,6 +2,7 @@
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning JavaScript, Typescript
 - 💞️ I'm From Indonesia 
+<!---
 
 *📦 Github Stat*
 
