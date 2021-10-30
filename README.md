@@ -4,7 +4,7 @@ HELLO 👋
 
 -👋 Hi, I’m Hazn
 
-```i commit repo
+```text
 Night : □□□□□0%
 Afternoon : ■■■□□60%
 Dawn : ■□□□□20%
