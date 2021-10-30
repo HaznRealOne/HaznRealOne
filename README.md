@@ -46,7 +46,5 @@ C++ : □□□□□0%
 ```
 
 *Feel Free To chat Me!*
-```url
-t.me/JustMeLoLz
-```
+`[ CHAT! ](https://t.me/JustMeLoLz)`
 
