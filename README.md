@@ -1,17 +1,20 @@
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+HELLO 👋
 --
 
 
 -👋 Hi, I’m Hazn
 
 ```i commit repo
-Night : 
+Night : □□□□□0%
+Afternoon : ■■■□□60%
+Dawn : ■□□□□20%
+Morning : ■■■■□80%
 ```
 ----
 
 **📦 Github Stat*
 
->> 🏷️ New Project : 
+> 🏷️ New Project : 
  > 
 > ❤️ Location : Indonesia
  > 
