@@ -33,3 +33,15 @@ Morning : ■■■■□80%
 ---
 **📦 My Current Projects**
 > ⭐ Create WhatsApp-Bot
+---
+
+My Favorite Food Mie Ayam 🍜
+
+---
+*I mostly Coding With JavaScript*
+```text
+JavaScript : ■■■■■100%
+Python : ■□□□□20%
+C++ : □□□□□0%
+```
+
