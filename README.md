@@ -18,7 +18,7 @@ Morning : ■■■■□80%
 
 ----
 
-**📦 Github Stat*
+**📦 My Github Info**
 
 > 🏷️ New Project : 
  > 
