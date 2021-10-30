@@ -2,7 +2,8 @@ HI!
 --
 👋 Hi, I’m Hazn
 
-**🙂 Nice To Meet U!**
+*🙂 Nice To Meet U!*
+
 --
 
 **i create/update repo at**
