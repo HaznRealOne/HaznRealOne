@@ -3,17 +3,17 @@
 - 🌱 I’m currently learning JavaScript, Typescript
 - 💞️ I'm From Indonesia 
 
-*🐱 My GitHub Data** 
+*📦 Github Stat*
 
-> 🏆 601 Contributions in the Year 2021
+> 🏷️ New Project : 
  > 
-> 📦 7.6 MB Used in GitHub's Storage 
+> ❤️ Location : Indonesia
  > 
-> 💼 Opted to Hire
+> ⭐ The goal of becoming a professional programmer
  > 
-> 📜 18 Public Repositories 
+> 🙂 0 Public Repositories 
  > 
-> 🔑 15 Private Repositories  
+> 😳 0 Private Repositories  
  > 
 
 <!---
