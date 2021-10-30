@@ -2,12 +2,14 @@ HELLO 👋
 --
 👋 Hi, I’m Hazn
 --
+
 ```text
 Night : □□□□□0%
 Afternoon : ■■■□□60%
 Dawn : ■□□□□20%
 Morning : ■■■■□80%
 ```
+**I LIKE CHICKEN 🍗**
 ----
 
 **📦 Github Stat*
