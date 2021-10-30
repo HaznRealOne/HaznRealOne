@@ -46,5 +46,5 @@ C++ : □□□□□0%
 ```
 
 *Feel Free To chat Me!*
-`[ CHAT! ](https://t.me/JustMeLoLz)`
+* <a href="https://t.me/JustMeLoLz"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
